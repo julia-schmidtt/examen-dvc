@@ -1,2 +1,6 @@
 /venv
 /clean_data.csv
+/data/processed_data/
+/data/predictions.csv
+/models/*.pkl
+env/
